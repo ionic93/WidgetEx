@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/classAndroid/workspace/WidgetEx/app/src/main/res/layout/activity_main.xml" value="0.2884963768115942" />
+        <entry key="..\:/classAndroid/workspace/WidgetEx/app/src/main/res/drawable/finger_drawable.xml" value="0.34270833333333334" />
+        <entry key="..\:/classAndroid/workspace/WidgetEx/app/src/main/res/drawable/rect_drawable.xml" value="0.30925925925925923" />
+        <entry key="..\:/classAndroid/workspace/WidgetEx/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/classAndroid/workspace/WidgetEx/app/src/main/res/layout/activity_text.xml" value="0.3015625" />
+        <entry key="..\:/classAndroid/workspace/WidgetEx/app/src/main/res/layout/image.xml" value="0.3265625" />
       </map>
     </option>
   </component>
